@@ -1,1 +1,2 @@
+--process-dependency-links
 git+https://github.com/benvand/b_old_test.git#egg=b_old_test-1.0.0
